@@ -19,8 +19,6 @@
 ---
 
 ## 📖 About
-
-Write 2–3 sentences here:
 - **What** A simple typeracer to test your wpm
 - **Why** Test how fast you can type
 - **Who** Anyone
